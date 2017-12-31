@@ -1,0 +1,20 @@
+{
+  "name": "bot-rp",
+  "version": "1.0.0",
+  "description": "Bot permettant le RP Users",
+  "main": "bot.js",
+  "author": "CauzYolo",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discordie": "^0.4.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit",
+    "start": "node --harmony bot.js  > /dev/null 2>&1 &"
+  },
+  "engines": {
+    "node": "8.9.3+"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
